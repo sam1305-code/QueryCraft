@@ -1,0 +1,6 @@
+# libraries need to be installed 
+streamlit
+streamlit_extras
+google_generativeai
+python-dotenv
+Pillow
